@@ -1,6 +1,10 @@
 ## Didats Triadi 
 
-I am iOS & macOS Developer. Write Swift and PHP scripts. Currently staying in Malang, Indonesia.
+I am iOS & macOS Developer since iOS 5. Write Swift for iOS & macOS apps, and PHP codes on the server when required to make my own API. 
+Other than coding, I also enjoy making my own design interfaces. Currently staying in Malang, Indonesia.
+
+Enjoying 🚴, 🏃, and 🏓. 
+
 
 ### Portfolio
 
