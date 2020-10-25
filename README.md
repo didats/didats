@@ -4,6 +4,9 @@ I am iOS & macOS Developer since iOS was version 5.0, and start writing macOS ap
 
 I am currently staying in Malang, Indonesia. 1 hour distance by plane from the capital city, Jakarta. I do like outside activities such as 🚴 and 🏃. Loved Americano and Moccachino. 
 
+If you are an iOS Developer, you might want to use these 2 libraries I have made:  
+* [DTSocialMediaLogin](https://github.com/didats/DTSocialMediaLogin), helping you to implement social media login.
+* [DTStringPicker](https://github.com/didats/DTStringPicker), a dropdown menu with ability to search the data
 
 ### Portfolio
 
