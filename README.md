@@ -2,7 +2,7 @@
 
 Currently iOS & macOS Developer. Former web developer. Able to speak with Swift, Objective C and PHP. Quite confident with Python and Go, but not on the level that I could call myself Python or Go Developer. I also loved doing design UI with Sketch, all of the apps that I have built are designed by me.
 
-I am currently staying in Malang, Indonesia. 1 hour distance by plane from the capital city, Jakarta. Other than writing codes, I do like outside activities such as 🚴 and 🏃. Every single month, I tried to push myself to run 100km, and bike for minimum 800km with 7500m elevation.
+I am currently staying in Malang, Indonesia. 1 hour distance by plane from the capital city, Jakarta. Other than writing codes, I do like outside activities such as 🚴 and 🏃. Every single month, I tried to push myself to run 100km, and bike for minimum 800km with 7500m elevation. Look at my [Strava Profile](https://www.strava.com/athletes/8525456).
 
 If somehow you asked me to go to a cafe, I would order Americano or Moccachino. Both of them giving me a good moood for a full day.
 
